@@ -1,1 +1,3 @@
+function Invoke-deneme () {
 whoami
+}
